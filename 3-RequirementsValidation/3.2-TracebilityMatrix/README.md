@@ -5,5 +5,5 @@
 |FR1.2|NTR3||||
 |FR1.3|NTR4||||
 |FR2.0|NTR5||||
-|FR2.1|NTR6-NTR7||||
-|FR3.0|NTR8NTR9||||
+|FR2.1|NTR6 - NTR7||||
+|FR3.0|NTR8 - NTR9||||
